@@ -1,1 +1,1 @@
-# Candies-algo
+# Candies-algo The program ensures that each child gets at least one candy and that children with higher ratings than their neighbors get more candies. It does this by scanning the list from left to right and then right to left, finally summing the candies for the minimum total required.
